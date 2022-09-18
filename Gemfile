@@ -15,3 +15,5 @@ gem 'rerun', '~> 0.13.1'
 gem 'pry'
 gem 'rack-cors', '~> 1.1', '>= 1.1.1'
 gem 'rack-contrib', '~> 2.3'
+# gem 'activestorage', '~> 7.0', '>= 7.0.4'
+# gem "image_processing", ">= 1.2"
